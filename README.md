@@ -1,2 +1,3 @@
 # OOP-Dokumentenverwaltung
-Unser gemeinsames GitHub Repository für das OOP-Projekt zur Dokumentenverarbeitung
+Hier kommt alles rein, was zum Projekt gehört. Java-Dateien, Links, was auch immer.
+
